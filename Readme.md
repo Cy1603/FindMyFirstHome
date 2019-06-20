@@ -19,5 +19,7 @@ Version 1.0.
 Built with:
 Android Studio
 
+For more information of this Android app, read the SRS document in the documentation folder.
+
 Authors:
-Xavier Tan, Ang Hao Jie, Ryan Tiong, Lee Chong yu, Tan Soo Yong.
+Xavier Tan, Ang Hao Jie, Ryan Tiong, Lee Chong yu, Tan Soo Yong. (View their profile at 'contributors' tab)

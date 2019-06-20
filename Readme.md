@@ -1,6 +1,6 @@
 # FindMyFirstHome
 
-# Getting Started:
+Getting Started:
 Clone the app from github
 Launch the app
 Enter your personal financial information
@@ -10,14 +10,14 @@ Press generate
 Download your personalised affordability report.
 Report will be in the downloads folder
 
-# Prerequisites:
+Prerequisites:
 Android Studio with emulator
 Google play on emulator with 16.0.89
 
 Version 1.0.
 
-# Built with:
+Built with:
 Android Studio
 
-# Authors:
+Authors:
 Xavier Tan, Ang Hao Jie, Ryan Tiong, Lee Chong yu, Tan Soo Yong.

@@ -20,6 +20,7 @@ Built with:
 Android Studio
 
 For more information of this Android app, read the SRS document in the documentation folder.
+https://github.com/SoulXHades/FindMyFirstHome/blob/master/Documentation/CZ2006%20SRS.pdf
 
 Authors:
 Xavier Tan, Ang Hao Jie, Ryan Tiong, Lee Chong yu, Tan Soo Yong. (View their profile at 'contributors' tab)
